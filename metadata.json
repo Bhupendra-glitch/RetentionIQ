@@ -1,0 +1,6 @@
+{
+  "name": "Decoding Customer Value",
+  "description": "Interactive senior-mentor guide and SQL playground for analyzing D2C fashion customer retention, feature engineering, and promo dependency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
